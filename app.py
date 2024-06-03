@@ -234,7 +234,7 @@ def handle_message(event):
                 text='請點擊以下按鈕查看我們的菜單。',
                 actions=[
                     MessageTemplateAction(
-                        label='蛋糕類'
+                        label='蛋糕類',
                        text='https://dfuhdfhosd.dsv cclov.sdfipo'
                     ),
                     MessageTemplateAction(
