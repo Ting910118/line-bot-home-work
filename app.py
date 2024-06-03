@@ -235,11 +235,11 @@ def handle_message(event):
                 actions=[
                     MessageTemplateAction(
                         label='蛋糕類'
-                        uri='https://dfuhdfhosd.dsv cclov.sdfipo'
+                       text='https://dfuhdfhosd.dsv cclov.sdfipo'
                     ),
-                    URITemplateAction(
+                    MessageTemplateAction(
                         label='麵包類',
-                        uri='https://dfuhdfhosd.dsv cclov.sdfip'
+                        text='https://dfuhdfhosd.dsv cclov.sdfip'
                     )
                 ]
             )
